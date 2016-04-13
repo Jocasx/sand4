@@ -7,7 +7,7 @@ body {
 div {
     background-color: #dee1b1;
     display: none;
-    position:fixed;
+    position: fixed ;
     
 }
 
@@ -56,6 +56,11 @@ li {
     font-family: ailerons;
     font-size: 130%
 }
+
+#contact {
+    width: 1270px
+}
+
 
 footer {
     color: #bdc4a7;
